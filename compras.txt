@@ -1,1 +1,6 @@
 compras.txt
+nueva lista de compras
+galletas dulces
+aceite
+yerba
+
